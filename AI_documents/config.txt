@@ -1,0 +1,5 @@
+{"model_name":"cohere.command-r-08-2024 v1.7",
+"embedding_model_name":"cohere.embed-multilingual-v3.0",
+"endpoint":"https://inference.generativeai.uk-london-1.oci.oraclecloud.com",
+"compartment_ocid":"ocid1.compartment.oc1..aaaaaaaaqdj2ou3o2e66laaddzsecdbrwc5jxqazdmdgpfp5ssvs7jymxyxq"
+}
